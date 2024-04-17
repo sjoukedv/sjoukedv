@@ -5,9 +5,16 @@
 - 📫 You can reach me via info@sdvservices.nl
 
 <p float="left">
+
+<img alt="Kubestronaut" src="images/kubestronaut.png" width="150" height="150" >
 <img alt="Kubernetes Security Specialist" src="images/cks.webp" width="150" height="150" >
 <img alt="Kubernetes Administrator" src="images/cka.png" width="150" height="150" >
 <img alt="Kubernetes Application Developer" src="images/ckad.png" width="150" height="150" >
+<img alt="Kubernetes and Cloud Native Security Associate" src="images/kcsa.png" width="150" height="150" >
+<img alt="Kubernetes and Cloud Native Associate" src="images/kcna.png" width="150" height="150" >
+
+</p>
+<p float="left">
 <img alt="AWS Developer Associate" src="images/aws-dva.png" width="150" height="150" >
 <img alt="Terraform Associate" src="images/tfa.png" width="150" height="150" >
 
