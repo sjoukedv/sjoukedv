@@ -14,8 +14,17 @@
 <img alt="Kubernetes and Cloud Native Associate" src="images/kcna.png" width="150" height="150" >
 
 </p>
+
+
 <p float="left">
 <img alt="AWS Developer Associate" src="images/aws-dva.png" width="150" height="150" >
-<img alt="Terraform Associate" src="images/tfa.png" width="150" height="150" >
+<img alt="AWS Certified Solutions Architect – Associate" src="images/aws-saa.png" width="150" height="150" >
+<img alt="AWS Certified DevOps Engineer – Professional" src="images/aws-dvp.png" width="150" height="150" >
+<img alt="AWS Certified Security – Specialty" src="images/aws-css.png" width="150" height="150" >
+</p>
 
+
+<p float="left">
+<img alt="CCA: Cilium Certified Associate" src="images/cncf-cca.png" width="150" height="150" >
+<img alt="Terraform Associate" src="images/tfa.png" width="150" height="150" >
 </p>
