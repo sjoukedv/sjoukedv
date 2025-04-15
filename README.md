@@ -27,4 +27,6 @@
 <p float="left">
 <img alt="CCA: Cilium Certified Associate" src="images/cncf-cca.png" width="150" height="150" >
 <img alt="Terraform Associate" src="images/tfa.png" width="150" height="150" >
+<img alt="OpenTelemtry Certified Associate" src="images/otel.png" width="150" height="150" >
+<img alt="Prometheus Certified Associate" src="images/pca.png" width="150" height="150" >
 </p>
